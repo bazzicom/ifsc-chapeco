@@ -1,2 +1,2 @@
 # ifsc-chapeco
-Projeto de Aplicativos ao Campus Chapecó
+Projeto de Aplicativos do Campus Chapecó
